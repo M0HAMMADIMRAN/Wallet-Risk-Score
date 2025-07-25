@@ -66,3 +66,4 @@ Liquidation events are a direct sign of past risky behavior.
 
 Wallet age adds trust since long-standing wallets with no liquidations are less likely to be bots or exploit accounts.
 
+THIS REPOSITORY CONTAINS THE WALLET_RISK_SCORE CODE AND THE WALLET SCORES WITH THE WALLET SCORES IN THE CSV FILE
